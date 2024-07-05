@@ -1,0 +1,22 @@
+body.dark{
+    background-color: rgb(43, 43, 43);
+}
+body.dark .form-title{
+    color: white;
+}
+body.dark .form-content{
+    color: white;
+}
+body.dark .page-title{
+    color: white;
+}
+body.dark .blog-post{
+    color: white;
+}
+body.dark footer{
+    color: white;
+}
+body.light #mode-switch-button{
+    background-color: rgb(43, 43, 43);
+    color: white;
+}
